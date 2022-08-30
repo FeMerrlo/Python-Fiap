@@ -10,7 +10,7 @@ else:
     print ("Não é um triangulo")
 if (valor1 != valor2 != valor3 ):
     print ("É um triangulo escaleno")
-elif (valor1 == valor2 or valor3, valor1 == valor3 !=valor2, valor2 == valor3 !=valor1,):
+elif (valor1 == valor2 !=valor3) or (valor1 == valor3 !=valor2) or (valor2 == valor3 !=valor1):
     print ("é um triangulo isósceles")
 else:
     print ("É um triangulo equilátero")
