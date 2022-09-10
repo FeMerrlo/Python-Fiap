@@ -6,3 +6,7 @@ while (Valor2 > 832040):
     Valor1 = Valor2
     Valor2 = Soma
     print(Valor2)
+# L = 1, 2,
+# SDR = 2, 5
+# SNI = 3, 5 
+# R = 5
